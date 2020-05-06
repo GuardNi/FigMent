@@ -1,0 +1,14 @@
+C:\Users\yarik\source\repos\Figment\Figment\bin\Debug\Figment.exe.config
+C:\Users\yarik\source\repos\Figment\Figment\bin\Debug\Figment.exe
+C:\Users\yarik\source\repos\Figment\Figment\bin\Debug\Figment.pdb
+C:\Users\yarik\source\repos\Figment\Figment\obj\Debug\Figment.csprojAssemblyReference.cache
+C:\Users\yarik\source\repos\Figment\Figment\obj\Debug\MainWindow.g.cs
+C:\Users\yarik\source\repos\Figment\Figment\obj\Debug\App.g.cs
+C:\Users\yarik\source\repos\Figment\Figment\obj\Debug\Figment_MarkupCompile.cache
+C:\Users\yarik\source\repos\Figment\Figment\obj\Debug\Figment_MarkupCompile.lref
+C:\Users\yarik\source\repos\Figment\Figment\obj\Debug\MainWindow.baml
+C:\Users\yarik\source\repos\Figment\Figment\obj\Debug\Figment.g.resources
+C:\Users\yarik\source\repos\Figment\Figment\obj\Debug\Figment.Properties.Resources.resources
+C:\Users\yarik\source\repos\Figment\Figment\obj\Debug\Figment.csproj.GenerateResource.cache
+C:\Users\yarik\source\repos\Figment\Figment\obj\Debug\Figment.exe
+C:\Users\yarik\source\repos\Figment\Figment\obj\Debug\Figment.pdb
